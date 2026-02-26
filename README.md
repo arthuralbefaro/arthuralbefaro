@@ -1,16 +1,16 @@
-## Hi there 👋
+# Arthur Albefaro
 
-<!--
-**arthuralbefaro/arthuralbefaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação  
+💻 Desenvolvedor FullStack com foco em Python, JavaScript, Java, SQL, e C++ 
 
-Here are some ideas to get you started:
+## Tecnologias
+- Python (FastAPI)
+- Java (SpringBoot)
+- JavaScript (React, Node.js, MongoDB)
+- C++
+- SQL (MySQL / PostgreSQL)
+- Git & GitHub
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em destaque
+- Finance Manager – Sistema de controle financeiro com autenticação e dashboard
