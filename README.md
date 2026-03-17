@@ -8,6 +8,7 @@
 - Java (SpringBoot)
 - JavaScript (React, Node.js, MongoDB)
 - C++
+- C# & .NET
 - SQL (MySQL / PostgreSQL)
 - Git & GitHub
 - Docker
