@@ -1,17 +1,24 @@
 # Arthur Albefaro
 
-🎓 Estudante de Ciência da Computação  
-💻 Desenvolvedor FullStack com foco em Python, JavaScript, Java, SQL, e C++ 
+Desenvolvedor Fullstack em formação, com foco em APIs, bancos de dados e aplicações web.
 
-## Tecnologias
-- Python (FastAPI)
-- Java (SpringBoot)
-- JavaScript (React, Node.js, MongoDB)
-- C++
-- C# & .NET
-- SQL (MySQL / PostgreSQL)
-- Git & GitHub
+Atualmente estudo Ciência da Computação e desenvolvo projetos práticos com Python, Java, TypeScript, PostgreSQL e Docker, buscando aplicar boas práticas de arquitetura, organização de código e versionamento.
+
+## Tecnologias principais
+- Python / FastAPI
+- Java / Spring Boot
+- TypeScript / Node.js
+- PostgreSQL / MySQL
 - Docker
+- Git & GitHub
 
 ## Projetos em destaque
-- Finance Manager – Sistema de controle financeiro com autenticação e dashboard
+- **Finance Manager** — sistema de controle financeiro com autenticação, dashboard e gráfico por categoria
+- **Portfólio pessoal** — site para apresentar meus projetos, tecnologias e contatos
+- **Dashboard CS** — aplicação front-end em TypeScript com foco em visualização
+
+## Objetivo
+Busco oportunidade de estágio ou vaga júnior em desenvolvimento backend, onde eu possa evoluir tecnicamente e contribuir com projetos reais.
+
+🌐 Portfólio: [arthuralbefaro.netlify.app](https://arthuralbefaro.netlify.app)
+💼 LinkedIn: [Arthur Albefaro](https://www.linkedin.com/in/arthur-nascimento-albefaro-penna-2a03473ab)
