@@ -18,7 +18,7 @@ Atualmente estudo Ciência da Computação e desenvolvo projetos práticos com P
 - **Dashboard CS** — aplicação front-end em TypeScript com foco em visualização
 
 ## Objetivo
-Busco oportunidade de estágio ou vaga júnior em desenvolvimento backend, onde eu possa evoluir tecnicamente e contribuir com projetos reais.
+Busco oportunidade de estágio ou vaga júnior em desenvolvimento fullstack, onde eu possa evoluir tecnicamente e contribuir com projetos reais.
 
 🌐 Portfólio: [arthuralbefaro.netlify.app](https://arthuralbefaro.netlify.app)
 💼 LinkedIn: [Arthur Albefaro](https://www.linkedin.com/in/arthur-nascimento-albefaro-penna-2a03473ab)
