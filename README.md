@@ -1,24 +1,72 @@
 # Arthur Albefaro
 
-Desenvolvedor Fullstack em formação, com foco em APIs, bancos de dados e aplicações web.
+Backend Developer in progress focused on building scalable APIs and well-structured systems.
 
-Atualmente estudo Ciência da Computação e desenvolvo projetos práticos com Python, Java, TypeScript, PostgreSQL e Docker, buscando aplicar boas práticas de arquitetura, organização de código e versionamento.
+---
 
-## Tecnologias principais
-- Python / FastAPI
-- Java / Spring Boot
-- TypeScript / Node.js
-- PostgreSQL / MySQL
-- Docker
-- Git & GitHub
+## About
 
-## Projetos em destaque
-- **Finance Manager** — sistema de controle financeiro com autenticação, dashboard e gráfico por categoria
-- **Portfólio pessoal** — site para apresentar meus projetos, tecnologias e contatos
-- **Dashboard CS** — aplicação front-end em TypeScript com foco em visualização
+Computer Science student with hands-on experience developing APIs, web systems and data-driven applications.
 
-## Objetivo
-Busco oportunidade de estágio ou vaga júnior em desenvolvimento fullstack, onde eu possa evoluir tecnicamente e contribuir com projetos reais.
+Focused on writing clean, maintainable and scalable code, following principles like SOLID and good software architecture practices.
 
-🌐 Portfólio: [arthuralbefaro.netlify.app](https://arthuralbefaro.netlify.app)
-💼 LinkedIn: [Arthur Albefaro](https://www.linkedin.com/in/arthur-nascimento-albefaro-penna-2a03473ab)
+---
+
+## Stack
+
+### Languages
+- Python
+- TypeScript
+- C#
+- Java
+- C++
+- Ruby
+
+### Backend
+- Node.js (Express)
+- .NET
+- Spring Boot
+- FastAPI / Flask
+
+### Frontend
+- React (TypeScript)
+- Bootstrap
+- HTML & CSS
+
+### Databases
+- PostgreSQL
+- MySQL
+
+### ORM / Tools
+- Prisma
+- Entity Framework
+- SQLAlchemy
+
+### Dev Tools
+- Docker & Docker Compose
+- Git
+- Postman / Thunder Client
+
+---
+
+## Projects
+
+### Banking API (TypeScript)
+REST API with authentication, transactions and PostgreSQL integration using Prisma.
+
+### Dashboard (Python)
+Data analysis dashboard with automation and visualization.
+
+### Resume Analyzer (AI)
+Application for resume analysis and skill matching using Python.
+
+### API (.NET)
+Backend built with C# using JWT authentication and clean architecture.
+
+---
+
+## Usage
+
+```bash
+git clone https://github.com/arthuralbefaro/project-name
+cd project-name
