@@ -18,8 +18,8 @@ Focused on writing clean, maintainable and scalable code, following principles l
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
-![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus)
 ![Ruby](https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby)
 
