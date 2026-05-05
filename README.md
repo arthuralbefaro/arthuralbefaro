@@ -14,13 +14,18 @@ Focused on writing clean, maintainable and scalable code, following principles l
 
 ## GitHub Statistics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthuralbefaro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuralbefaro&layout=compact&theme=tokyonight&hide_border=false" />
-
-</div>
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthuralbefaro&theme=github_dark" 
+    alt="Arthur Albefaro GitHub Statistics"
+    width="48%"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthuralbefaro&theme=github_dark" 
+    alt="Arthur Albefaro Programming Languages"
+    width="48%"
+  />
+</p>
 
 ---
 
