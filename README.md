@@ -16,6 +16,14 @@ Focused on writing clean, maintainable and scalable code, following principles l
 
 <p align="center">
   <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthuralbefaro&theme=github_dark" 
+    alt="Arthur Albefaro GitHub Profile Summary"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthuralbefaro&theme=github_dark" 
     alt="Arthur Albefaro GitHub Statistics"
     width="48%"
