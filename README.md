@@ -1,6 +1,6 @@
 # Arthur Albefaro
 
-Backend & Automation Developer in progress focused on building scalable APIs, automations and well-structured systems.
+Junior Backend Developer focused on building scalable APIs, automations and well-structured systems, mainly with **Java**, **C#** and **TypeScript**.
 
 ---
 
@@ -41,11 +41,11 @@ Focused on writing clean, maintainable and scalable code, following principles l
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Backend
 
@@ -87,28 +87,36 @@ Focused on writing clean, maintainable and scalable code, following principles l
 
 ---
 
-## Projects
+## Featured Projects
 
-### Banking API - TypeScript
+### [Journal](https://github.com/arthuralbefaro/journal-ledger) - Java / Spring Boot
 
-REST API with authentication, transactions and PostgreSQL integration using Prisma.
+Double-entry ledger API that refuses to let the books go wrong: balanced, immutable and idempotent postings enforced by PostgreSQL, and overdraft prevented under concurrency with pessimistic locking.
 
-### Dashboard - Python
+`Java 25` `Spring Boot 4` `PostgreSQL` `Flyway` `Testcontainers` `ArchUnit`
 
-Data analysis dashboard with automation and visualization.
+### [Relay](https://github.com/arthuralbefaro/relay) - C# / TypeScript
 
-### Resume Analyzer - AI
+Visual automation engine whose execution core runs unchanged in the browser (C# via WebAssembly, PGlite) and on a server behind a queue and workers. [Live demo](https://arthuralbefaro.github.io/relay/)
 
-Application for resume analysis and skill matching using Python.
+`C#` `.NET` `WebAssembly` `TypeScript` `PostgreSQL` `Redis`
 
-### API - .NET
+### [Courier](https://github.com/arthuralbefaro/courier) - TypeScript
 
-Backend built with C# using JWT authentication and clean architecture.
+Webhook delivery gateway covering idempotent ingestion, transactional fan-out, Postgres as a queue (`SKIP LOCKED`), HMAC signing and SSRF protection.
 
----
+`Node.js` `TypeScript` `PostgreSQL` `Prisma` `Docker` `GitHub Actions`
 
-## Usage
+### [LLM Gateway](https://github.com/arthuralbefaro/llm-gateway) - TypeScript / NestJS
 
-```bash
-git clone https://github.com/arthuralbefaro/project-name
-cd project-name
+One API in front of multiple LLM providers, with retry, fallback, circuit breaker, exact caching and opt-in semantic caching, plus full observability.
+
+`NestJS` `Redis` `pgvector` `OpenTelemetry` `Prometheus` `Next.js`
+
+### [ARCA Program](https://github.com/arthuralbefaro/projeto-arca-gp8) - Java / Spring Boot + Next.js
+
+Animal care and registration platform designed for the city of Serra/ES, with JWT auth in secure cookies, CSRF protection and versioned migrations. [Live demo](https://arthuralbefaro.github.io/projeto-arca-gp8/)
+
+`Java 21` `Spring Boot 3` `Next.js` `React` `PostgreSQL` `Flyway` `Docker`
+
+**More projects:** [Orquestra API](https://github.com/arthuralbefaro/orquestra-api) (Laravel automation platform) · [Cine Smart Search](https://github.com/arthuralbefaro/cine-smart-search) (NestJS + PostgreSQL full-text movie search) · [Banking API](https://github.com/arthuralbefaro/banking-api-ts) (Express + Prisma)
