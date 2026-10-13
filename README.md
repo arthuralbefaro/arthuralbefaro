@@ -49,7 +49,7 @@ Focused on writing clean, maintainable and scalable code, following principles l
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass,html,css&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,bootstrap,sass,html,css&theme=dark)](https://skillicons.dev)
 
 ### Databases & ORM
 
